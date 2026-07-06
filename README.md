@@ -1,2 +1,2 @@
-# .github
+# CuraMend
 Biomedical engineering for healing, protection, and restoration.
